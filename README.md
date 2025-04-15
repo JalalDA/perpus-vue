@@ -17,7 +17,7 @@ VITE_API_URL=https://your-backend-api.com
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/JalalDA/perpus-vue.git
+git clone https://github.com/JalalDA/perpus-express.git
 cd perpus-vue
 
 2. **Install dependencies:**
