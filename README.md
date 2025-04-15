@@ -1,5 +1,22 @@
-# Vue 3 + TypeScript + Vite
+# 📚 Perpus Vue
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 🧰 Tech Stack
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+- ⚡ [Vite](https://vitejs.dev/) – Fast bundler and dev server
+- 🖼️ [Vue 3](https://vuejs.org/) – Progressive JavaScript framework
+- 🧱 [TypeScript](https://www.typescriptlang.org/) – Strongly typed JavaScript
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework (optional)
+- 🔌 Axios – API requests
+
+## 🔒 Environment Variables
+Create a .env file in the root directory of your project and add the following variables:
+VITE_API_URL=https://your-backend-api.com
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/JalalDA/perpus-vue.git
+cd perpus-vue
+npm install
+npm run dev
+
